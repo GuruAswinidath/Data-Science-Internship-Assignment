@@ -1,4 +1,3 @@
-# Data Science Internship Assignment
 
 # 📊 Data Science TA Hiring Assignment – Cuvette
 
