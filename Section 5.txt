@@ -1,0 +1,22 @@
+Section 5:
+Supporting Students:
+
+Check-ins & Flexibility: Quick 1:1s to pinpoint hurdles. Offer deadline extensions with structured plans (e.g., “Submit Part A by Friday, Part B by Monday”) to prevent overwhelm.
+
+Scaffold Understanding: Break concepts into micro-tasks. For coding, provide snippet templates; for theory, use analogies (e.g., “Think of neural networks as a team passing notes”).
+
+Peer Support: Pair strugglers with engaged peers for study sprints. Create a “Question Parking Lot” Slack channel for anonymous queries.
+
+Mental Health: Normalize stress. Share time-management hacks (e.g., Pomodoro technique) and campus counseling links.
+
+Explaining Gradient Descent:
+
+Analogy First: “Imagine hiking down a foggy mountain. You feel the slope to take small steps toward the bottom. Gradient descent finds the ‘steepest slope’ to minimize errors.”
+
+Visualize: Sketch a parabola with a ball rolling toward the lowest point. Label steps as “learning rate” (too big = overshoot; too small = slow).
+
+Relatable Example: Predict pizza prices. Guess a price, check error (actual vs. guessed), adjust guess by error slope. Repeat until error is tiny.
+
+Jargon Decoded: “Cost function = error meter. Derivatives = slope calculator. Iterations = trial rounds.”
+
+Interactive Demo: Use a simple Excel/Google Sheets simulation adjusting numbers to see convergence in real time.
